@@ -106,7 +106,8 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 
 <p> 
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /> 
-  <img src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" alt="SQL Server Database" width="50" height="50">
+ <img src="https://jsdelivr.net" alt="SQL Server" width="40" height="40"/>
+
 
 </p>
 
