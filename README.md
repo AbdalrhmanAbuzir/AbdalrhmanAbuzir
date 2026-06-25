@@ -1,8 +1,7 @@
 <div align="center">
 
-# 👋 Hi, I'm Your Name
 
-### Full-Stack Developer | Backend Engineer | API & System Integration Specialist
+### Full-Stack Developer | Backend Engineer  <!--| API & System Integration Specialist -->
 
 <p>
 I build scalable web applications, robust backend systems, and seamless integrations that help businesses transform ideas into reliable digital products.
@@ -26,29 +25,29 @@ From designing clean architectures and RESTful APIs to developing modern user ex
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Software developer with a strong foundation in full-stack development, backend engineering, and system integration.
 
 I specialize in building modern applications that combine clean architecture, scalable backend services, efficient database design, and intuitive user experiences.
 
-My experience includes developing RESTful APIs, integrating third-party services, managing relational and NoSQL databases, and building maintainable software solutions across different technologies and platforms.
+My experience includes developing RESTful APIs, integrating third-party services, managing SQL and NoSQL databases, and building maintainable software solutions across different technologies and platforms.
 
 I am passionate about solving complex technical challenges, writing clean and scalable code, and continuously learning new technologies that help create better products and systems.
 
 ---
 
-Solutions I Deliver
+## Solutions I Deliver
 
 <table> <tr> <td width="50%">
 
-🌐 Full-Stack Applications
+Full-Stack Applications
 
 End-to-end web solutions built with modern frontend and backend technologies, focusing on performance, scalability, and user experience.
 
 </td> <td width="50%">
 
-⚙️ Backend Systems & APIs
+Backend Systems & APIs
 
 Robust RESTful APIs, business logic implementation, authentication systems, and scalable backend architectures.
 
@@ -56,13 +55,13 @@ Robust RESTful APIs, business logic implementation, authentication systems, and 
 
 <tr> <td width="50%">
 
-🔗 System Integration
+System Integration
 
 Seamless integration between applications, third-party services, and enterprise platforms through secure and efficient API communication.
 
 </td> <td width="50%">
 
-🏢 Business & Enterprise Solutions
+Business & Enterprise Solutions
 
 Custom software solutions designed to automate workflows, improve productivity, and support business growth.
 
@@ -70,19 +69,19 @@ Custom software solutions designed to automate workflows, improve productivity, 
 
 <tr> <td width="50%">
 
-🗄️ Database Design & Optimization
+Database Design & Optimization
 
 Efficient database architecture, performance tuning, query optimization, and data modeling for scalable applications.
 
 </td> <td width="50%">
 
-📊 Dashboards & Management Systems
+Dashboards & Management Systems
 
 Administrative panels, reporting systems, analytics dashboards, and internal business tools.
 
 </td> </tr> </table>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Programming Languages
 
@@ -106,7 +105,7 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 
 <p> 
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /> 
- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server.svg" alt="SQL Server" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server.svg" alt="SQL Server" width="50" height="50"/>
 
 
 </p>
@@ -119,22 +118,22 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 
 ---
 
-## 🎯 Core Strengths
+## Core Strengths
 
 * Clean Architecture
 * Object-Oriented Programming (OOP)
 * Software Design Principles
 * API Development
-* System Integration
+<!--* System Integration-->
 * Problem Solving
 * Team Collaboration
 * Agile Development
 * Technical Communication
-//* Scalable Software Design
+* Scalable Software Design
 
 ---
 
-## 📈 Development Philosophy
+## Development Philosophy
 
 I believe great software is more than just working code.
 
@@ -144,7 +143,7 @@ My goal is to build solutions that not only meet current requirements but also p
 
 ---
 
-## 🌱 Currently Focusing On
+## Currently Focusing On
 
 * Advanced ASP.NET Core Development
 * Scalable Backend Architectures
@@ -155,9 +154,9 @@ My goal is to build solutions that not only meet current requirements but also p
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
-I'm always interested in collaborating on exciting projects, freelance opportunities, and innovative software solutions.
+I'm always interested in collaborating on exciting projects<!--, freelance opportunities -->, and innovative software solutions.
 
 Whether you're building a startup, scaling an existing platform, or looking for a reliable developer to bring your ideas to life, I'd be happy to connect.
 
