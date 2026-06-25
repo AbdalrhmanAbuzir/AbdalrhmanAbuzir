@@ -93,7 +93,7 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 ### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs,html,css,tailwind,bootstrap" />
 </p>
 
 ### Backend Development
@@ -105,8 +105,8 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 ### Databases
 
 <p> 
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> 
-  <img src="https://wikimedia.org" alt="SQL Server Database" width="50" height="50">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" /> 
+  <img src="https://icons8.com/icon/laYYF3dV0Iew/microsoft-sql-server" alt="SQL Server Database" width="50" height="50">
 
 </p>
 
