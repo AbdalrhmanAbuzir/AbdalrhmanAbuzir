@@ -106,7 +106,9 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 
 <p> 
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> 
-  <img src="https://jsdelivr.net" alt="SQL Server Logo" width="50" height="50"></p>
+  <img src="https://wikimedia.org" alt="SQL Server Database" width="50" height="50">
+
+</p>
 
 ### Tools & Workflow
 
