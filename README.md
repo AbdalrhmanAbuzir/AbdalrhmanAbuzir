@@ -38,25 +38,49 @@ I am passionate about solving complex technical challenges, writing clean and sc
 
 ---
 
-## 💡 What I Can Help You Build
+Solutions I Deliver
 
-✔ Full-Stack Web Applications
+<table> <tr> <td width="50%">
 
-✔ RESTful APIs & Backend Services
+🌐 Full-Stack Applications
 
-✔ Enterprise & Business Systems
+End-to-end web solutions built with modern frontend and backend technologies, focusing on performance, scalability, and user experience.
 
-✔ System Integration Solutions
+</td> <td width="50%">
 
-✔ Database Design & Optimization
+⚙️ Backend Systems & APIs
 
-✔ Admin Dashboards & Internal Tools
+Robust RESTful APIs, business logic implementation, authentication systems, and scalable backend architectures.
 
-✔ Modern Responsive User Interfaces
+</td> </tr>
 
-✔ Performance-Focused Applications
+<tr> <td width="50%">
 
----
+🔗 System Integration
+
+Seamless integration between applications, third-party services, and enterprise platforms through secure and efficient API communication.
+
+</td> <td width="50%">
+
+🏢 Business & Enterprise Solutions
+
+Custom software solutions designed to automate workflows, improve productivity, and support business growth.
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+🗄️ Database Design & Optimization
+
+Efficient database architecture, performance tuning, query optimization, and data modeling for scalable applications.
+
+</td> <td width="50%">
+
+📊 Dashboards & Management Systems
+
+Administrative panels, reporting systems, analytics dashboards, and internal business tools.
+
+</td> </tr> </table>
 
 ## 🛠️ Tech Stack
 
@@ -80,17 +104,10 @@ I am passionate about solving complex technical challenges, writing clean and sc
 
 ### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+<p> 
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" /> 
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
 </p>
-
-* SQL Server
-* PostgreSQL
-* MongoDB
-* Database Design
-* Query Optimization
-* Data Modeling
-* Relational Database Management
 
 ### Tools & Workflow
 
@@ -111,7 +128,7 @@ I am passionate about solving complex technical challenges, writing clean and sc
 * Team Collaboration
 * Agile Development
 * Technical Communication
-* Scalable Software Design
+//* Scalable Software Design
 
 ---
 
