@@ -13,11 +13,11 @@ From designing clean architectures and RESTful APIs to developing modern user ex
 
 <br>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="(https://www.linkedin.com/in/abdalrhman-abuzir)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abdalrhmanabuzr@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
 </a>
 
