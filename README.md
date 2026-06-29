@@ -134,7 +134,7 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 
 -->
 
----
+
 <!--
 ## Development Philosophy
 
@@ -156,7 +156,7 @@ My goal is to build solutions that not only meet current requirements but also p
 * Cloud-Native Applications
 * Modern Full-Stack Development
 
----
+
 -->
 
 <!--
