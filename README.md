@@ -125,14 +125,15 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 * Object-Oriented Programming (OOP)
 * Software Design Principles
 * API Development
-<!--* System Integration-->
 * Problem Solving
 * Team Collaboration
 * Agile Development
 * Technical Communication
 * Scalable Software Design
 
+
 -->
+
 ---
 <!--
 ## Development Philosophy
