@@ -13,7 +13,7 @@ From designing clean architectures and RESTful APIs to developing modern user ex
 
 <br>
 
-<a href="(https://www.linkedin.com/in/abdalrhman-abuzir)">
+<a href="https://www.linkedin.com/in/abdalrhman-abuzir">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
