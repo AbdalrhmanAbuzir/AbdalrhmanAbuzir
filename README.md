@@ -132,8 +132,9 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 * Technical Communication
 * Scalable Software Design
 
+-->
 ---
-
+<!--
 ## Development Philosophy
 
 I believe great software is more than just working code.
@@ -141,7 +142,8 @@ I believe great software is more than just working code.
 It should be scalable, maintainable, secure, and designed with future growth in mind.
 
 My goal is to build solutions that not only meet current requirements but also provide a strong foundation for future business success.
-
+-->
+<!--
 ---
 
 ## Currently Focusing On
@@ -154,7 +156,8 @@ My goal is to build solutions that not only meet current requirements but also p
 * Modern Full-Stack Development
 
 ---
-
+-->
+<!--
 ## Let's Connect
 
 I'm always interested in collaborating on exciting projects<!--, freelance opportunities -->, and innovative software solutions.
