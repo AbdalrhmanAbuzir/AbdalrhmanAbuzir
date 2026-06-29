@@ -158,10 +158,11 @@ My goal is to build solutions that not only meet current requirements but also p
 
 ---
 -->
+
 <!--
 ## Let's Connect
 
-I'm always interested in collaborating on exciting projects<!--, freelance opportunities -->, and innovative software solutions.
+I'm always interested in collaborating on exciting projects and innovative software solutions.
 
 Whether you're building a startup, scaling an existing platform, or looking for a reliable developer to bring your ideas to life, I'd be happy to connect.
 
