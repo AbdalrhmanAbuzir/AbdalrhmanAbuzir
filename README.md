@@ -118,6 +118,7 @@ Administrative panels, reporting systems, analytics dashboards, and internal bus
 
 ---
 
+<!--
 ## Core Strengths
 
 * Clean Architecture
@@ -161,3 +162,5 @@ I'm always interested in collaborating on exciting projects<!--, freelance oppor
 Whether you're building a startup, scaling an existing platform, or looking for a reliable developer to bring your ideas to life, I'd be happy to connect.
 
 **Let's build something impactful together.**
+
+-->
